@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rinshad C P</h1>
-<h3 align="center">A passionate frontend developer from India
+<h3 align="center">
 I am a passionate software developer with a keen interest in open-source technologies. I have experience in developing web applications, APIs, and mobile applications. I love to contribute to open-source projects and learn from others.</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinshadcp&label=Profile%20views&color=0e75b6&style=flat" alt="rinshadcp" /> </p>
