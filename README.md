@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rinshad C P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<P my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. </P>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinshadcp&label=Profile%20views&color=0e75b6&style=flat" alt="rinshadcp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinshadcp" alt="rinshadcp" /></a> </p>
