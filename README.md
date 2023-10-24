@@ -33,5 +33,5 @@ I am a passionate software developer with a keen interest in open-source technol
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinshadcp&" alt="rinshadcp" /></p>
-<h3 align="left">Support:</h3>
+
 
