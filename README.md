@@ -11,18 +11,13 @@ I am a passionate software developer with a keen interest in open-source technol
 
 - 📫 How to reach me **rinshadcp7337@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rinshadcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rinshadcp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rinshad c p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinshad c p" height="30" width="40" /></a>
-<a href="https://instagram.com/rinshadrcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinshadrcp" height="30" width="40" /></a>
-<a href="https://medium.com/@rinshadcp7337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rinshadcp7337" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rinshadcp7337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rinshadcp7337" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rinshadcp7337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rinshadcp7337" height="30" width="40" /></a>
+<a href="https://instagram.com/rinshadrcp" target="blank"><img align="center" file-readme-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
