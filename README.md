@@ -30,9 +30,7 @@ I am a passionate software developer with a keen interest in open-source technol
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinshadcp&show_icons=true&locale=en&layout=compact" alt="rinshadcp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinshadcp&show_icons=true&locale=en" alt="rinshadcp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinshadcp&" alt="rinshadcp" /></p>
 <h3 align="left">Support:</h3>
