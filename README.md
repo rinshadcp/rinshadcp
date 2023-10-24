@@ -7,7 +7,7 @@ I am a passionate software developer with a keen interest in open-source technol
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinshadcp" alt="rinshadcp" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **........**
 
 - 💬 Ask me about **anything**
 
