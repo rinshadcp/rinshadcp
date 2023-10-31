@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rinshad C P</h1>
+<h1 align="center">Hi, I'm Rinshad C P</h1>
 <h3 align="center">
 I am a passionate software developer with a keen interest in open-source technologies. I have experience in developing web applications and APIs. I love to contribute to open-source projects and learn from others.</h3>
   
