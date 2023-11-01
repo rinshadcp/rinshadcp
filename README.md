@@ -7,7 +7,6 @@ I am a passionate software developer with a keen interest in open-source technol
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **rinshadcp7337@gmail.com**
 
