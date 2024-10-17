@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi, I'm Rinshad C P</h1>
 <h2 align="center">
-I am a passionate software developer with a keen interest in open-source technologies. I have experience in developing web applications and APIs. I love to contribute to open-source projects and learn from others.</h2>
+I am a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with strong skills in JavaScript, TypeScript, PostgreSQL, and API development. I have expertise in setting up CI/CD pipelines using GitHub Actions and am proficient in AWS services.
+
+I am also passionate about generative AI technologies, including OpenAI Assistant and Azure OpenAI Assistant. My goal is to create user-friendly solutions while continuously learning and adapting to new technologies. Feel free to explore my projects to see what I’ve been working on!</h2>
   
 
 
